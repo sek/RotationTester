@@ -1,5 +1,5 @@
 
-package com.example.newera;
+package com.example;
 
 import android.app.ListActivity;
 import android.content.Intent;
